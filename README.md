@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
  
-# This Project To show Trending Movies & Tv Shows and persons  you can filter by media type  or search about what you want 
+# This Project To show Trending Movies & Tv Shows and person  you can filter by media type  or search about what you want 
  
 ## Available Scripts
 
